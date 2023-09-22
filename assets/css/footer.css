@@ -1,0 +1,19 @@
+.content {
+    min-height: calc(100vh - 60px);
+    padding-bottom: 60px;
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+p{
+    color:grey;
+}
+strong{
+    color:white;
+}
